@@ -72,6 +72,7 @@ Sumário
   * Build (Gerando .apk);
   * Registro;
   * Publicando;
+  
 Cronograma
 ---
 
