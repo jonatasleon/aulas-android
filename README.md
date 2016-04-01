@@ -6,7 +6,7 @@ Sumário
 
 1. O que é o Android?
   * Introdução básica;
-2. Apresentação da plataforma de desenvolvimento(Android Studio) e plataforma de testes(Genymotion).
+2. Apresentação do IDE(Android Studio) e o emulador(Genymotion).
   * Primeiro contato com as ferramentas;
   * Primeiro projeto;
   * Demonstração de algumas funcionalidades;
