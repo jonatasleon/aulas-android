@@ -26,9 +26,9 @@ Sumário
   * Android Lollipop;
   * Versões do Android;
 6. Layouts
+  * Tipos de Layout;
   * Largura e Altura;
   * Padding e Margin;
-  * Tipos de Layout;
 7. Componentes
   * O que é uma View?;
   * Inserindo e exibindo dados;
@@ -72,7 +72,7 @@ Sumário
   * Build (Gerando .apk);
   * Registro;
   * Publicando;
-  
+
 Cronograma
 ---
 
