@@ -49,8 +49,7 @@ Sumário
   * SQLite;
 11. Acessando à Web
   * Conectando à Rede;
-  * JSON;
-  * Padrão REST;
+  * REST e JSON;
   * Utilizando Picasso, OkHTTP, Retrofit e GSON;
 12. Broadcasts e Services
   * Declarando um Broadcast;
