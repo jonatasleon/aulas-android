@@ -27,13 +27,16 @@ Sumário
   * Versões do Android;
 6. Layouts
   * Tipos de Layout;
+    - Linear Layout;
+    - Relative Layout;
+    - Grid Layout;
+    - List View;
   * Largura e Altura;
   * Padding e Margin;
 7. Componentes
   * O que é uma View?;
-  * Inserindo e exibindo dados;
   * Outras views;
-  * ListView;
+  * Inserindo e exibindo dados;
 8. Dialogs
   * AlertDialog;
   * DatePickerDialog;
