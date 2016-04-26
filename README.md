@@ -20,10 +20,10 @@ Sumário
   * Ciclo de vida;
   * Transição entre Activities;
   * Passando dados entre Activities;
-5. Gradle e o Android Lollipop
+5. Conteúdo geral sobre Android
   * Gradle;
-  * Diferenças entre o Android Studio e ADT;
-  * Android Lollipop;
+  * Diferenças entre o Android Studio e ADT (Plugin Eclipse);
+  * Android Lollipop e Marshmallow;
   * Versões do Android;
 6. Layouts
   * Tipos de Layout;
